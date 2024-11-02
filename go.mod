@@ -1,4 +1,4 @@
-module users/justin/documents/msds432/week_6/post05
+module github.com/yundongny1/post05
 
 go 1.22.5
 
